@@ -34,7 +34,7 @@ function App() {
   return (
     <div className="flex items-center text-center flex-col ">
       <header className="flex items-center mb-2 mt-20 justify-between  w-1/2">
-      <h1 className="text-3xl ">Lista de Presença</h1>
+      <h1 className=" ">Lista de Presença</h1>
 <div className="flex items-center ">
   <strong>{user.name}</strong>
   <img className="w-14 h-14 rounded-3xl ml-5" src={user.avatar} alt="Foto de perfil" />
