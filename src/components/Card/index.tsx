@@ -1,5 +1,4 @@
-
-  interface CardProps {
+interface CardProps {
     name: string,
     time: any,
 
